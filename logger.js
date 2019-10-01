@@ -72,7 +72,7 @@ function w(message) {
 }
 
 function e(message) {
-    logg(message, 'deberrorug');
+    logg(message, 'error');
 }
 
 function f(message) {
