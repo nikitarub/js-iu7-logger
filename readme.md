@@ -21,7 +21,7 @@ L.setup(
 * error   – e
 * fatal   – f
 
-```
+```js
 // logg() with mode names
 L.logg("hello", "info") ;
 
